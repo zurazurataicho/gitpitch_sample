@@ -4,7 +4,39 @@
 
 ---
 
+## 好きな言語は?
+
+- C
+- C++ |
+- Go |
+- Swift |
+- Java |
+
++++
+
+## 仕事だから使ってる言語は?
+
+- PHP
+- JavaScript |
+- Ruby |
+- Python |
+
++++
+
+## 覚えたい言語は?
+
+- C++
+- Go |
+- Swift |
+- Python |
+- Scala |
+- Haskell |
+- Erlang |
+
+---
+
 ## Someoneクラス
+
 - あるC++のクラス
 - コンストラクタとデストラクタしかない
 - 何もしていない
