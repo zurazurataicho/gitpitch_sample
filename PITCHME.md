@@ -10,10 +10,15 @@
 - 何もしていない
 
 ---?code=someoneclass.cpp
-someoneclass.cpp表示
+someoneclass.cpp
 ---
 
-## タイトル2
+## Go言語
+- 定番の「こんにちは、世界」
+
+```?code=gist:b929f78e2bb8608082e46362d496eeaf
+helloworld.go
+```
 
 ---
 
