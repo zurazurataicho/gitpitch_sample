@@ -76,7 +76,7 @@ print(hello, world, separator:", ", terminator:".\n")
 +++
 
 ## Swift解説 (2)
-### 変数宣言
+### 定数宣言
 
 ```swift
 var hello : String = "Hello"
