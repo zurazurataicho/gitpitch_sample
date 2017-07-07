@@ -1,29 +1,15 @@
 # GitPitchサンプル
 ## 〜自分用なのです〜
-### えづらあつし
-### zura@zura.org
+#### えづらあつし <zura@zura.org>
 
 ---
 
-## タイトル1
+## Someoneクラス
+- あるC++のクラス
+- コンストラクタとデストラクタしかない
+- 何もしていない
 
-```c++
-#include <iostream>
-
-class Someone
-{
-pubic:
-  Someone(){}
-  ~Someone(){} 
-};
-
-int main()
-{
-  Someone s;
-  return 0;
-}
-```
-
+---?code=someoneclass.cpp
 ---
 
 ## タイトル2
