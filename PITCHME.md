@@ -10,6 +10,7 @@
 - 何もしていない
 
 ---?code=someoneclass.cpp
+someoneclass.cpp表示
 ---
 
 ## タイトル2
