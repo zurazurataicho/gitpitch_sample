@@ -1,11 +1,11 @@
 # テーマの設定
-theme: night
+theme: white
 
 # ロゴアイコンの設定
 logo: bee.png
 
 # フットノートの設定
-footnote: "©2017 18%Grey Inc."
+footnote: "©2017 zurazurataicho"
 
 # スライドのページ数表示の設定
 slide-number: true

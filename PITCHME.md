@@ -1,6 +1,6 @@
 # GitPitchサンプル
 ## 〜自分用なのです〜
-#### えづらあつし <zura@zura.org>
+#### えづらあつし <zurazurataicho@gmail.com>
 
 ---
 
