@@ -41,6 +41,8 @@ print(hello, world, separator:", ", terminator:".\n")
 ```
 @[1](変数の宣言はvar)
 
++++
+
 ## Swift解説 (2)
 ### 変数宣言
 
